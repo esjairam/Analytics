@@ -1,0 +1,54 @@
+Building Natural Language Applications with TensorFlow
+English | MP4 | AVC 1920×1080 | AAC 48KHz 2ch | 2h 03m | 531 MB
+
+Build and interact with your intelligent chatbot with NLP!
+
+Do you want your machine to analyze, understand, and generate human speech? Do you want to build chatbots? NLP is the next step in bridging 
+many concerns that users, businesses, and developers experience with customer service.
+
+Chatbots are making it easier and replacing humans everywhere in social media, websites, stores, and even business-to-business conversations. 
+With a less talk and more action approach, this course will lead you through various implementations of NLP techniques by implementing 
+end-to-end deep learning models and creating an intelligent chatbot on our own.
+
+Get your hands on this course to learn the most fascinating technology in the field of AI and leverage the power of TensorFlow right away!
+
+This hands-on course covers all the important aspects of Natural Language Processing and Deep Learning models with TensorFlow. Throughout 
+the course, you’ll build an intelligent chatbot with step-by-step instructions to implement them following the intuition topics.
+
+What You Will Learn
+
+Get grips on various NLP techniques while building an intelligent Chatbot using TensorFlow to help you transform online businesses
+A solid understanding of natural language processing intuitions and its functioning
+Optimize performance and efficiency by implementing end to end deep learning models
+Working on sequence-to-sequence models (used in translation) that reads one sequence and produces another
+Using bag-of-words model as a way of representing textual data
+Build a recurrent neural network for language modeling
+
+Table of Contents
+--------------------
+01 The Course Overview
+02 Types of Natural Language Processing
+03 End-to-End Deep Learning and Bag- of-Words Models
+04 Recurrent Neural Networks
+05 Build Your Seq2Seq Model and Train It
+06 Beam Search Decoding and Attention Mechanisms
+07 Installing the TensorFlow Environment
+08 Import Dataset and Create Dictionaries and Lists
+09 Clean Texts for Questions and Answers
+10 Filter Q and A and Create Three Dictionaries for Mapping
+11 Add Tokens to Dictionaries and Create an Inverse Dictionary
+12 Translating and Sorting All Questions and Answers
+13 Create Placeholders for Inputs and Targets
+14 Create Encoder RNN and Decode Training Set
+15 Decoding the Training and Test_Validation Sets
+16 Creating Decoder RNN
+17 Building the Seq2Seq Model
+18 Setting the Hyperparameters and Defining a Session
+19 Getting Training and Test Predictions
+20 Loss Error, Optimizer, and Gradient Clipping
+21 Padding the Sequence
+22 Training Our Chatbot
+23 Load the Weights and Run the Session
+24 Convert Questions from Strings to Integers
+25 Set Up the Chatbot
+26 Let’s Chat with Our Chatbot
