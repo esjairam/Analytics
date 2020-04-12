@@ -1,54 +1,94 @@
-Building Natural Language Applications with TensorFlow
-English | MP4 | AVC 1920×1080 | AAC 48KHz 2ch | 2h 03m | 531 MB
+Machine Learning for Beginners: Linear Regression Model in R
+English | MP4 | AVC 1920×1080 | AAC 48KHz 2ch | 6h 13m | 1.91 GB
 
-Build and interact with your intelligent chatbot with NLP!
+Get up to speed with linear regression analysis for predictive machine learning and econometrics
 
-Do you want your machine to analyze, understand, and generate human speech? Do you want to build chatbots? NLP is the next step in bridging 
-many concerns that users, businesses, and developers experience with customer service.
+Are you looking for a complete linear regression course that teaches you everything you need to create a linear regression model in R? 
+This course covers the important aspects that you need to know to solve business problems through linear regression.
 
-Chatbots are making it easier and replacing humans everywhere in social media, websites, stores, and even business-to-business conversations. 
-With a less talk and more action approach, this course will lead you through various implementations of NLP techniques by implementing 
-end-to-end deep learning models and creating an intelligent chatbot on our own.
+Although most courses only focus on teaching how to run the analysis, this course emphasizes what happens before and after analysis 
+such as having the right data and performing preprocessing on it. You’ll also be able to judge how good your model is and interpret the 
+results to help your business. As you progress, you will learn how to identify problems in your business and solve them using linear 
+regression techniques. In addition to this, you’ll gain the knowledge you need to create a linear regression model in R and analyze its 
+results.
 
-Get your hands on this course to learn the most fascinating technology in the field of AI and leverage the power of TensorFlow right away!
+By the end of this course, you will be equipped with the skills you need to effectively use linear regression for predictive machine learning 
+and create robust models.
 
-This hands-on course covers all the important aspects of Natural Language Processing and Deep Learning models with TensorFlow. Throughout 
-the course, you’ll build an intelligent chatbot with step-by-step instructions to implement them following the intuition topics.
+Learn
 
-What You Will Learn
-
-Get grips on various NLP techniques while building an intelligent Chatbot using TensorFlow to help you transform online businesses
-A solid understanding of natural language processing intuitions and its functioning
-Optimize performance and efficiency by implementing end to end deep learning models
-Working on sequence-to-sequence models (used in translation) that reads one sequence and produces another
-Using bag-of-words model as a way of representing textual data
-Build a recurrent neural network for language modeling
+Identify the business problem and solve it using linear regression techniques
+Create a linear regression model in R and analyze its results
+Become well-versed with machine learning concepts
+Gain knowledge of data collection and data preprocessing for machine learning linear regression problems
+Explore advanced linear regression techniques using R’s glmnet package
 
 Table of Contents
 --------------------
-01 The Course Overview
-02 Types of Natural Language Processing
-03 End-to-End Deep Learning and Bag- of-Words Models
-04 Recurrent Neural Networks
-05 Build Your Seq2Seq Model and Train It
-06 Beam Search Decoding and Attention Mechanisms
-07 Installing the TensorFlow Environment
-08 Import Dataset and Create Dictionaries and Lists
-09 Clean Texts for Questions and Answers
-10 Filter Q and A and Create Three Dictionaries for Mapping
-11 Add Tokens to Dictionaries and Create an Inverse Dictionary
-12 Translating and Sorting All Questions and Answers
-13 Create Placeholders for Inputs and Targets
-14 Create Encoder RNN and Decode Training Set
-15 Decoding the Training and Test_Validation Sets
-16 Creating Decoder RNN
-17 Building the Seq2Seq Model
-18 Setting the Hyperparameters and Defining a Session
-19 Getting Training and Test Predictions
-20 Loss Error, Optimizer, and Gradient Clipping
-21 Padding the Sequence
-22 Training Our Chatbot
-23 Load the Weights and Run the Session
-24 Convert Questions from Strings to Integers
-25 Set Up the Chatbot
-26 Let’s Chat with Our Chatbot
+
+Introduction
+1 Welcome to the course!
+2 Course contents
+
+Basics of Statistics
+3 Types of Data
+4 Types of Statistics
+5 Describing the data graphically
+6 Measures of Centers
+7 Measures of Dispersion
+
+Getting started with R and R studio
+8 Installing R and R studio
+9 Basics of R and R studio
+10 Packages in R
+11 Inputting data part 1 – Inbuilt datasets of R
+12 Inputting data part 2 – Manual Data Entry
+13 Inputting data part 3 – Importing from CSV or Text files
+14 Creating Barplots in R
+15 Creating Histograms in R
+
+Introduction to Machine Learning
+16 Introduction to Machine Learning
+17 Building a Machine Learning model
+
+Data Pre-processing
+18 Gathering Business Knowledge
+19 Data Exploration
+20 The Data and the Data Dictionary
+21 Importing the dataset into R
+22 Univariate Analysis and EDD
+23 EDD in R
+24 Outlier Treatment
+25 Outlier Treatment in R
+26 Missing Value imputation
+27 Missing Value imputation in R
+28 Seasonality in Data
+29 Bi-variate Analysis and Variable Transformation
+30 Variable transformation in R
+31 Non-Usable Variables
+32 Dummy variable creation – Handling qualitative data
+33 Dummy variable creation in R
+34 Correlation Matrix and cause-effect relationship
+35 Correlation Matrix in R
+
+Linear Regression Model
+36 The problem statement
+37 Basic equations and Ordinary Least Squared (OLS) method
+38 Assessing Accuracy of predicted coefficients
+39 Assessing Model Accuracy – RSE and R squared
+40 Simple Linear Regression in R
+41 Multiple Linear Regression
+42 The F – statistic
+43 Interpreting result for categorical Variable
+44 Multiple Linear Regression in R
+45 Test-Train split
+46 Bias Variance trade-off
+47 Test-Train split in R
+
+Regression models other than OLS
+48 Linear models other than OLS
+49 Subset Selection techniques
+50 Subset selection in R
+51 Shrinkage methods – Ridge Regression and The Lasso
+52 Ridge regression and Lasso in R
+53 Heteroscedasticity
